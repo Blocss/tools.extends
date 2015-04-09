@@ -1,5 +1,5 @@
 == HEAD
 
-== 0.0.1 (Apr 9, 2015)
+== 1.0.0 (Apr 9, 2015)
 
 * First version
