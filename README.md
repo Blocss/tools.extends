@@ -1,4 +1,6 @@
-# Blocss: tools.extends – v1.0.0
+# Blocss: tools.extends – v1.0.0 - Deprecated
+
+**This module has been moved to: ([https://github.com/Blocss/blocss](https://github.com/Blocss/blocss))**
 
 A couple of default extendable classes
 
